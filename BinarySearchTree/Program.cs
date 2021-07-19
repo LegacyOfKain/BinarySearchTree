@@ -43,7 +43,7 @@ namespace BinarySearchTree
             bst.Insert(66);
             bst.Insert(90);
 
-
+            // These 3 traversal can give a proper logical visualization of how the B Tree looks graphically
             Console.WriteLine("In Order Traversal (Left->Root->Right)");
             bst.InOrderTraversal();
 
