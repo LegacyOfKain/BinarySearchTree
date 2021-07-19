@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTree", "BinarySearchTree\BinarySearchTree.csproj", "{1A725E02-2D58-4F6E-AFC3-6804785923FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetCursorPosition", "SetCursorPosition\SetCursorPosition.csproj", "{04073138-ADA0-444A-A030-5B26FF437917}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A725E02-2D58-4F6E-AFC3-6804785923FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A725E02-2D58-4F6E-AFC3-6804785923FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A725E02-2D58-4F6E-AFC3-6804785923FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A725E02-2D58-4F6E-AFC3-6804785923FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04073138-ADA0-444A-A030-5B26FF437917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04073138-ADA0-444A-A030-5B26FF437917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04073138-ADA0-444A-A030-5B26FF437917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04073138-ADA0-444A-A030-5B26FF437917}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CAABB1B-5CB9-46BD-A28D-51CEE8364693}
+	EndGlobalSection
+EndGlobal
